@@ -1,5 +1,5 @@
 heres instruction:
-1.download ohneschwanzenegger9not from this repo)
+1.download ohneschwanzenegger(from this repo releases)
 2.download nand.bin
 3.open ohneschwanzenegger
 4.click "nand dump",or press ctrl+n(in that case skip 5)
