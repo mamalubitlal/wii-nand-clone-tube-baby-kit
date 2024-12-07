@@ -1,4 +1,4 @@
-##heres instruction:
+heres instruction:
 1.download ohneschwanzenegger
 2.download nand.bin
 3.open ohneschwanzenegger
